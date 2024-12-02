@@ -1,9 +1,9 @@
 
 # Data Binning | Data Bucketing
 
-## Proje İsmi: SegmaGain (Akıllı Müşteri Segmentasyonu ve Gelir Projeksiyonu)
+## Project Name: SegmaGain (Smart Customer Segmentation and Revenue Projection)
 
 **********************************************************************************
 
-## Proje Açıklaması: 
-Bu projede, müşteriler demografik özellikler ve kullanım alışkanlıklarına göre segmente edilmekte, ardından her segment için ortalama gelir tahmini yapılmaktadır. Veriler, müşterilerin ülke, cinsiyet, kullandıkları platform (iOS veya Android) ve yaş gibi özelliklerinden oluşmaktadır. Segmentasyon işlemiyle, benzer müşteri gruplarını tanımlamak ve bu grupların işletmeye sağlayabileceği potansiyel gelirleri öngörmek amaçlanmaktadır.
+## Project Description: 
+In this project, customers are segmented according to demographic characteristics and usage habits, and then an average revenue estimate is made for each segment. The data consists of customer characteristics such as country, gender, platform (iOS or Android) and age. The segmentation process aims to define similar customer groups and predict the potential revenues that these groups can provide to the business.
